@@ -453,8 +453,7 @@ This section demonstrates how to connect Pulsar to PostgreSQL.
 
 :::
 
-and persists the messages to ClickHouse, MariaDB, PostgreSQL, or SQlite. 
->For more information, see [JDBC sink connector](io-jdbc-sink.md).
+>For more information, see [JDBC sink connector](io-jdbc-sink).
 
 
 ### Setup a PostgreSQL cluster
