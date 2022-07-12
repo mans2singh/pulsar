@@ -448,8 +448,8 @@ This section demonstrates how to connect Pulsar to PostgreSQL.
 
 :::tip
 
-* Make sure you have Docker installed. If you do not have one, see [install Docker](https://docs.docker.com/docker-for-mac/install/).
-* The JDBC sink connector pulls messages from Pulsar topics 
+* Make sure you have Docker installed. If you do not have one, see [install Docker](https://docs.docker.com/docker-for-mac/install/). 
+* The JDBC sink connector pulls messages from Pulsar topics and persists the messages to ClickHouse, MariaDB, PostgreSQL, or SQlite.
 
 :::
 
